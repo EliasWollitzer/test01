@@ -1,5 +1,3 @@
 console.log("alles gut")
-
-
-ls
+console.log("gut");
 
